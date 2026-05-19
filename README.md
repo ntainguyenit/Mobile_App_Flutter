@@ -193,5 +193,3 @@ Users need to configure their own API key when running the project locally.
 * **Repository**: [https://github.com/ntainguyenit/Mobile_App_Flutter](https://github.com/ntainguyenit/Mobile_App_Flutter)
 
 ---
-
-**© 2025 Tai Nguyen, Mobile App Flutter. All rights res
